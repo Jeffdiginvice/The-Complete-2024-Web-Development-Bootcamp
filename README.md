@@ -1,4 +1,4 @@
-Sobre Meu Aprendizado em Desenvolvimento Web <br>
+<em>Sobre Meu Aprendizado em Desenvolvimento Web<em <br>
 Atualmente, estou expandindo minhas habilidades e conhecimento em desenvolvimento web através do curso "The Complete 2024 Web Development Bootcamp". Este é um curso abrangente projetado para levar estudantes de qualquer nível de experiência, desde completos iniciantes até um nível de competência em desenvolvimento web full-stack.
 <br><br>
 O Que Estou Aprendendo<br>
