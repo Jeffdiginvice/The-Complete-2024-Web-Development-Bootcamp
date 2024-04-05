@@ -1,4 +1,4 @@
-<h2><b>Sobre Meu Aprendizado em Desenvolvimento Web</b></h2> <br>
+<h2><b>Sobre Meu Aprendizado em Desenvolvimento Web</b></h2> 
 Atualmente, estou expandindo minhas habilidades e conhecimento em desenvolvimento web através do curso "The Complete 2024 Web Development Bootcamp". Este é um curso abrangente projetado para levar estudantes de qualquer nível de experiência, desde completos iniciantes até um nível de competência em desenvolvimento web full-stack.
 <br><br>
 <h2><b>O Que Estou Aprendendo<br></b></h2>
@@ -8,7 +8,7 @@ Desenvolvimento Front-End: HTML5, CSS3, JavaScript ES6, Flexbox, Grid, Bootstrap
 Desenvolvimento Back-End: Node.js, Express.js, EJS, REST APIs, SQL, PostgreSQL, autenticação, Firebase, e mais.
 Ferramentas e Práticas de Desenvolvimento: Uso da linha de comando Bash, Git, GitHub, controle de versão, e melhores práticas de desenvolvimento profissional.
 Web3 e Desenvolvimento de DApps: Fundamentos de blockchain, desenvolvimento de contrato de tokens, e lógica de minting, compra e venda de NFTs.<br><br>
-<h2><b>Projetos Práticos</b></h2><br>
+<h2><b>Projetos Práticos</b></h2>
 Um dos aspectos mais valiosos deste curso é o foco em aprender fazendo. Estou construindo 16 projetos de desenvolvimento web que abrangem uma ampla variedade de aplicações e tecnologias. Esses projetos estão me proporcionando uma experiência prática inestimável e um portfólio robusto para apresentar a potenciais empregadores.
 <br>
 <h2><b>Por Que Esse Curso?<br></b></h2>
