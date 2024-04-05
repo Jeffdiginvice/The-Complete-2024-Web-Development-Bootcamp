@@ -8,7 +8,7 @@ Desenvolvimento Front-End: HTML5, CSS3, JavaScript ES6, Flexbox, Grid, Bootstrap
 Desenvolvimento Back-End: Node.js, Express.js, EJS, REST APIs, SQL, PostgreSQL, autenticação, Firebase, e mais.
 Ferramentas e Práticas de Desenvolvimento: Uso da linha de comando Bash, Git, GitHub, controle de versão, e melhores práticas de desenvolvimento profissional.
 Web3 e Desenvolvimento de DApps: Fundamentos de blockchain, desenvolvimento de contrato de tokens, e lógica de minting, compra e venda de NFTs.<br><br>
-<h2><b>Projetos Práticos</b></h2><br><br>
+<h2><b>Projetos Práticos</b></h2><br>
 Um dos aspectos mais valiosos deste curso é o foco em aprender fazendo. Estou construindo 16 projetos de desenvolvimento web que abrangem uma ampla variedade de aplicações e tecnologias. Esses projetos estão me proporcionando uma experiência prática inestimável e um portfólio robusto para apresentar a potenciais empregadores.
 <br>
 <h2><b>Por Que Esse Curso?<br></b></h2>
