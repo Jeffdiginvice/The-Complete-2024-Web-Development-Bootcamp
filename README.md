@@ -10,7 +10,7 @@ Ferramentas e Práticas de Desenvolvimento: Uso da linha de comando Bash, Git, G
 Web3 e Desenvolvimento de DApps: Fundamentos de blockchain, desenvolvimento de contrato de tokens, e lógica de minting, compra e venda de NFTs.<br><br>
 <h2><b>Projetos Práticos</b></h2><br><br>
 Um dos aspectos mais valiosos deste curso é o foco em aprender fazendo. Estou construindo 16 projetos de desenvolvimento web que abrangem uma ampla variedade de aplicações e tecnologias. Esses projetos estão me proporcionando uma experiência prática inestimável e um portfólio robusto para apresentar a potenciais empregadores.
-<br><br>
+<br>
 <h2><b>Por Que Esse Curso?<br></b></h2>
 Escolhi "The Complete 2024 Web Development Bootcamp" devido à sua abordagem completa, cobrindo uma vasta gama de tecnologias atuais e emergentes. Ministrado pela instrutora principal do App Brewery, este curso é reconhecido por sua qualidade de ensino e material didático detalhado. Com mais de 62 horas de vídeos HD, desafios de código, e projetos reais, este curso está me preparando não apenas para entender, mas também para aplicar meus conhecimentos em cenários da vida real.<br>
 
